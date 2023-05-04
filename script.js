@@ -111,32 +111,32 @@
 //     }
 // }
 // compare(2,25);
- console.log("For loop");
- let numbers= [1,2,3,4,5,6,7,8,9];
- print = (numbers) =>{
-     for (var i=0;i<numbers.length;i++){
-         console.log(numbers[i]);
-     }
- }
- print(numbers);
+//  console.log("For loop");
+//  let numbers= [1,2,3,4,5,6,7,8,9];
+//  print = (numbers) =>{
+//      for (var i=0;i<numbers.length;i++){
+//          console.log(numbers[i]);
+//      }
+//  }
+//  print(numbers);
 
-console.log("While loop");
+// console.log("While loop");
 
-print = (numbers) =>{
-    var i=0
-    while(i<numbers.length){
-        console.log(numbers[i]);
-        i++;
-     }
- }
- print(numbers);
+// print = (numbers) =>{
+//     var i=0
+//     while(i<numbers.length){
+//         console.log(numbers[i]);
+//         i++;
+//      }
+//  }
+//  print(numbers);
 
-console.log("Do-while Loop");
- print = (numbers) =>{
-     var i=0
-     do{
-       console.log(numbers[i]);
-        i++;
-     }while(i<numbers.length);
- }
- print(numbers);
+// console.log("Do-while Loop");
+//  print = (numbers) =>{
+//      var i=0
+//      do{
+//        console.log(numbers[i]);
+//         i++;
+//      }while(i<numbers.length);
+//  }
+//  print(numbers);
